@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: jetpack
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,10 @@ With Development Mode, features that do not require a connection to WordPress.co
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1.2 =
+
+- Added hungarian translation.
 
 = 1.1.1 =
 
