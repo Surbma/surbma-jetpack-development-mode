@@ -3,8 +3,8 @@ Contributors: Surbma
 Donate link: http://surbma.com/
 Tags: jetpack
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 1.1.2
+Tested up to: 4.1
+Stable tag: 1.1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,10 @@ Enables Jetpack's Development Mode, to use some modules without having a WordPre
 == Description ==
 
 With Development Mode, features that do not require a connection to WordPress.com servers can be activated.
+
+This plugin is using the jetpack_development_mode filter to enable the Development Mode. If you are familiar with ftp and file edit, you can also add the `define( 'JETPACK_DEV_DEBUG', true);` to the wp-config.php file. Make sure you add it before the `/* That's all, stop editing! Happy blogging. */` line.
+
+This plugin also checks if the Jetpack plugin is already activated, so it is safe to use this plugin.
 
 == Installation ==
 
@@ -27,6 +31,11 @@ With Development Mode, features that do not require a connection to WordPress.co
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1.3 =
+
+- Tested up to WordPress 4.1
+- Extended description.
 
 = 1.1.2 =
 
