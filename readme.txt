@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: jetpack
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,11 @@ This plugin also checks if the Jetpack plugin is already activated, so it is saf
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1.4 =
+
+- Fix localization.
+- Prevent direct access to the plugin.
 
 = 1.1.3 =
 
