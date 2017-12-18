@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Surbma - Jetpack Development Mode
+Plugin Name: Jetpack Development Mode
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: Enables Jetpack's Development Mode, to use some modules without having a WordPress.com account.
 
