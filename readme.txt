@@ -1,6 +1,6 @@
-=== Jetpack Development Mode ===
+=== Surbma - Jetpack Development Mode ===
 Contributors: Surbma
-Donate link: http://surbma.com/
+Donate link: http://surbma.com/donate/
 Tags: jetpack
 Requires at least: 4.0
 Tested up to: 4.9
