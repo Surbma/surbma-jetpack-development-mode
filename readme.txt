@@ -1,10 +1,11 @@
-=== Surbma - Jetpack Development Mode ===
-Contributors: Surbma
-Donate link: http://surbma.com/donate/
+=== Surbma | Jetpack Development Mode ===
+Contributors: Surbma, CherryPickStudios
+Donate link: https://surbma.com/donate/
 Tags: jetpack
-Requires at least: 4.0
-Tested up to: 4.9
-Stable tag: 1.1.4
+Requires at least: 5.1
+Tested up to: 5.3
+Stable tag: 2.0
+Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,7 +22,7 @@ This plugin also checks if the Jetpack plugin is already activated, so it is saf
 == Installation ==
 
 1. Upload `surbma-jetpack-development-mode` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - Jetpack Development Mode plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | Jetpack Development Mode plugin through the 'Plugins' menu in WordPress
 3. That's it. :)
 
 == Frequently Asked Questions ==
@@ -31,6 +32,13 @@ This plugin also checks if the Jetpack plugin is already activated, so it is saf
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2020-02-10
+
+- TWEAK - Tested with WordPress 5.3 version.
+- TWEAK - Updated to use a new way to deploy it to wp.org repo.
 
 = 1.1.4 =
 
