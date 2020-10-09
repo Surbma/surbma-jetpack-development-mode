@@ -1,28 +1,28 @@
-=== Surbma | Jetpack Development Mode ===
+=== Surbma | Jetpack Offline Mode ===
 Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: jetpack
 Requires at least: 5.1
-Tested up to: 5.3
-Stable tag: 2.0
+Tested up to: 5.5
+Stable tag: 2.1
 Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Enables Jetpack's Development Mode, to use some modules without having a WordPress.com account.
+Enables Jetpack's Offline Mode, to use some modules without having a WordPress.com account.
 
 == Description ==
 
-With Development Mode, features that do not require a connection to WordPress.com servers can be activated.
+With Offline Mode, features that do not require a connection to WordPress.com servers can be activated.
 
-This plugin is using the jetpack_development_mode filter to enable the Development Mode. If you are familiar with ftp and file edit, you can also add the `define( 'JETPACK_DEV_DEBUG', true);` to the wp-config.php file. Make sure you add it before the `/* That's all, stop editing! Happy blogging. */` line.
+This plugin is using the jetpack_offline_mode filter to enable the Offline Mode. If you are familiar with ftp and file edit, you can also add the `define( 'JETPACK_DEV_DEBUG', true);` to the wp-config.php file. Make sure you add it before the `/* That's all, stop editing! Happy blogging. */` line.
 
 This plugin also checks if the Jetpack plugin is already activated, so it is safe to use this plugin.
 
 == Installation ==
 
 1. Upload `surbma-jetpack-development-mode` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma | Jetpack Development Mode plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | Jetpack Offline Mode plugin through the 'Plugins' menu in WordPress
 3. That's it. :)
 
 == Frequently Asked Questions ==
@@ -32,6 +32,12 @@ This plugin also checks if the Jetpack plugin is already activated, so it is saf
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.1 =
+
+Release date: 2020-10-09
+
+- Update filter name to avoid deprecation notices.
 
 = 2.0 =
 
