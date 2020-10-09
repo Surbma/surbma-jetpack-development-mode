@@ -5,7 +5,7 @@ Plugin Name: Surbma | Jetpack Offline Mode
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Enables Jetpack's Offline Mode, to use some modules without having a WordPress.com account.
 
-Version: 2.0
+Version: 2.1
 
 Author: Surbma
 Author URI: https://surbma.com/
