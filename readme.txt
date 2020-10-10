@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: jetpack
 Requires at least: 5.1
 Tested up to: 5.5
-Stable tag: 2.1
+Stable tag: 2.2
 Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,11 +33,19 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 2.2 =
+
+Release date: 2020-10-10
+
+- OTHER - Update README.md file with new plugin name.
+- TWEAK - PHP short function.
+
 = 2.1 =
 
 Release date: 2020-10-09
 
-- Update filter name to avoid deprecation notices.
+- FIX - Update filter name to avoid deprecation notices.
+- OTHER - New plugin name to follow Jetpack's naming.
 
 = 2.0 =
 

@@ -1,4 +1,4 @@
-Surbma | Jetpack Development Mode
-=================================
+Surbma | Jetpack Offline Mode
+=============================
 
-Enables Jetpack's Development Mode, to use some modules without having a WordPress.com account.
+Enables Jetpack's Offline Mode, to use some modules without having a WordPress.com account.
