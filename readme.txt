@@ -3,7 +3,7 @@ Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: jetpack
 Requires at least: 5.1
-Tested up to: 5.5
+Tested up to: 5.8
 Stable tag: 2.2
 Requires PHP: 7.0
 License: GPLv2
